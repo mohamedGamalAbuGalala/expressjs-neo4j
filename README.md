@@ -1,5 +1,5 @@
 # Overview
-This is a demo CRUD service by using NodeJS and Neo4j.
+This is a demo CRUD service by using NodeJS and Neo4j (Please check this article https://www.ru-rocker.com/2018/08/28/how-to-make-a-simple-crud-example-using-expressjs-and-neo4j/).
 
 # REST
 This demo is about creating, updating, retrieveng and deleting companies object via web service.
